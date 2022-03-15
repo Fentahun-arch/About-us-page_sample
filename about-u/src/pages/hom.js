@@ -8,7 +8,7 @@ class Hom extends React.Component{
 		<div class="nav">
 			<div class="logo">AirBnb</div>
 		<div>
-			<span>Product</span>
+			<span>Products</span>
 			<span class="active">About Us</span>
 			<span>Contact Us</span>
 		</div>
@@ -16,8 +16,7 @@ class Hom extends React.Component{
 		<div class="about-us">
 			<div class="who-we-are">
 				<h3>Who we are</h3>
-				<span>orem Ipsum is simply dummy text of the 
-				printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</span>
+				<span>AASTU Student</span>
 			</div>
 			<div class="cards">
 				<div class="card">
@@ -25,8 +24,7 @@ class Hom extends React.Component{
 					<div class="card-body">
 						<h3>Fentahun</h3>
 						<span>Student</span>
-						<p>orem Ipsum is simply dummy text of the printing
-						 and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
+						<p>AASTU Student</p>
 					</div>
 					</div>
 			
@@ -36,9 +34,7 @@ class Hom extends React.Component{
 					<card class="card-body">
 						<h3>Esubalew</h3>
 						<span>Student</span>
-						<p>orem Ipsum is simply dummy 
-						text of the printing and typesetting industry.
-						 Lorem Ipsum has been the industry's standard dummy</p>
+						<p>AASTU Student</p>
 					</card>
 				</div>
 			
@@ -47,8 +43,7 @@ class Hom extends React.Component{
 					<card class="card-body">
 						<h3>Eyoel A</h3>
 						<span>Student</span>
-						<p>orem Ipsum is simply dummy text of the printing
-						 and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
+						<p>AASTU Student</p>
 					</card>
 				</div>
 			
@@ -57,9 +52,7 @@ class Hom extends React.Component{
 					<card class="card-body">
 						<h3>Eyoel Z</h3>
 						<span>Student</span>
-						<p>orem Ipsum is simply dummy text
-						 of the printing and typesetting industry. 
-						 Lorem Ipsum has been the industry's standard dummy</p>
+						<p>AASTU Student</p>
 					</card>
 				</div>
 		
